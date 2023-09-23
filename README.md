@@ -6,8 +6,6 @@ Hi, I’m Gishan Damindu
 💞️ Always love to learn new things and Discover them.
 📫 How to reach me --> gishankalasinghe1999@gmail.com
 
-
-
 <!--
 **GishanDaminduDK/GishanDaminduDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

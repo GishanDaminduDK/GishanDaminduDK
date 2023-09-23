@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 Hi, I’m Gishan Damindu
 👀 I’m interested in Electronics,Robotics and Emberded systerms.
 🌱 I’m currently learning python,C++ and linux.
